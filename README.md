@@ -25,8 +25,7 @@ Easy Mode
 - applies buffs to the party Pokemon and debuffs
   to the opposing party Pokemon
 - every attack from the player will be multi-hit
-  and attacks like tomorrow Rollout or Triple
-  Kick will gain power with each hit
+  and attacks like Rollout or Triple Kick will gain power with each hit
 - only real use case is testing mods from
   beginning to end
 
