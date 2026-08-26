@@ -43,6 +43,17 @@ Field Moves
   available field moves a Pokemon can learn
   as long as the trainer has the TM/HM
 
+Fruit Tree Revamp
+- Berries and apricorns no longer have a wait
+  time
+- can pick a number from 1-7 per interaction
+
+Kurt Revamp
+- revamps Kurt's apricorn script
+- Kurt will take your apricorns and ask you
+  if you want to turn them into balls
+- amount received is random (1-3) per Ball
+
 Limit Break
 - breaks the level 100 cap for player and
   opposing trainers
@@ -77,3 +88,7 @@ Trainer Rematch
   rematch
   * rematch pop-up is triggered by pressing A
     while standing next to the trainer
+
+Unlimited Bug Contests
+- removes day, daily, and time restrictions
+  on bug contests
