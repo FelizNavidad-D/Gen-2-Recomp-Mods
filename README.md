@@ -68,6 +68,8 @@ Team EXP Share
 - modern EXP share mechanic
 - fighters get 100% EXP, benched Pokemon receive
   50% exp
+- Pokemon with maxed out happiness gain
+  double exp/lucky egg effect
 
 Trainer Rematch
 - speak to any trainer, even gym leaders, and
