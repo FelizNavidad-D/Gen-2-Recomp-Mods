@@ -55,6 +55,11 @@ Limit Break
 Perfect Catch Rate
 - 100% catch rate for any Pokeball type
 
+PokeGear Contact Expansion
+- expands contact list so a player can accept
+  everyone's phone number
+  * experimental
+
 TMs HMs
 - reusable TMs and forgettable HMs
 - will populate the TM pocket in numerical order
