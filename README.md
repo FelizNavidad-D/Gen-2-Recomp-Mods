@@ -1,3 +1,7 @@
+Bill's Boxes
+- Bill will call and ask if you want to
+  change boxes when the current one gets full
+  
 DV Manipulation
 - in the mod manager, you can select your
   DVs for optimal, hidden power types,
